@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome!&color=auto&height=300)
+## Hi, welcome to Jihyeon's GitHub
+
 
 ### 🌊 Interest
 ![nlp](https://img.shields.io/badge/NLP\(Natural_Language_Processing\)-F3F3F3.svg?style=for-the-badge&logoColor=black) ![SNA](https://img.shields.io/badge/SNA\(semantic_network_analysis\)-F3F3F3.svg?style=for-the-badge&logoColor=black) ![pyTorch](https://img.shields.io/badge/PyTorch-F3F3F3.svg?style=for-the-badge&logo=PyTorch&logoColor=black)
@@ -20,3 +21,5 @@
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjh8331267&count_bg=%2379C83D&title_bg=%234B4B4B&icon=&icon_color=%23252525&title=hits&edge_flat=false)
+
+Thank you for visiting my GitHub repo!
